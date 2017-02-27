@@ -1,0 +1,40 @@
+.wrapper {
+    min-height: 400px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.header {
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    margin: 15px 0 25px;
+}
+
+.test {
+    margin: 0px 175px;
+    list-style-type: decimal;
+}
+
+.test__question {
+    font-family: Arial;
+    font-size: 17px;
+	font-weight: bold;
+}
+
+.answer {
+    margin: 8px 0;
+}
+
+.answer__item {
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.button {
+    width: 198px;
+    height: 47px;
+    margin: 21px 2px 23px 304px;
+    background: #cfe2f3;
+    border: 0px;
+}
